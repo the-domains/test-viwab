@@ -13,6 +13,10 @@ color:
 layout_spectrum: 0.45277713844552636
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bbf50de-c714-4eca-a9df-1edcd073d15b.jpg
-name: TEA TIME EXPRESS
+name: TTE 2
+navigation:
+  - id: 2c8aba27-c54c-4d4b-b58d-053097e73f8e
+    name: History
+    type: content
 title: TEA TIME EXPRESS
 description: 'Exquisite, Hand Made Triple Layered Cakes'
