@@ -1,4 +1,3 @@
-layout_spectrum: 0.45277713844552636
 typography_spectrum: 0.7456691530533135
 color:
   brandStrength: 0.49163007782772183
@@ -11,4 +10,8 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-name: TEST
+layout_spectrum: 0.45277713844552636
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bbf50de-c714-4eca-a9df-1edcd073d15b.jpg
+name: TEA TIME EXPRESS
+title: 'Exquisite, Hand Made triple layer Cakes'
